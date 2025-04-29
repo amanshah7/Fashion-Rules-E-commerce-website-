@@ -1,5 +1,6 @@
-E-Commerce Website
-Welcome to the E-Commerce Website project!
+Fashion Rules (E-Commerce Clothing Website)
+
+Welcome to the Fashion Rules
 This is a fully functional online store where users can browse products, add them to their cart, and checkout securely.
 
 Features
